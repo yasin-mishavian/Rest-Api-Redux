@@ -1,0 +1,32 @@
+.row{
+  justify-content:center;
+  align-items: center;
+  margin: 0px auto;
+  h2{
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    padding-top: 10px;
+  }
+  .update-input{
+    width: 100%;
+  }
+  .buttons{
+    margin: 10px;
+    button{
+      margin-inline: 5px;
+    }
+  }
+}
+
+.user-img{
+  border-radius: 50% ;
+  width: 120px;
+  border: 2.5px solid green ;
+}
+
+.img-box{
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+}
